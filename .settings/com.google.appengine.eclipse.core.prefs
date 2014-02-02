@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+gaeDoJarClasses=false
+gaeEnableJarSplitting=true
+gaeRetainStagingDirectory=false
+validationExclusions=src/com/example/myproject/Main.java|src/com/example/myproject/TweetDownloader.java

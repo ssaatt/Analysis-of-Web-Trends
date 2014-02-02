@@ -1,0 +1,68 @@
+ #resize {
+    width: 600px;
+    height: auto;
+    margin: 0 auto;
+	}
+	#center
+	{
+	text-align:center;
+	}
+	.fontsize
+	{
+	font-family:arial;
+	font-size:18px;
+	font-weight:bold;
+	color: #3299CC;
+	text-shadow:1px 1px 0px #528ecc;
+	left:5px;
+	}
+	.input
+	{
+	font-family:arial;
+	font-size:18px;
+	left:5px;
+	}
+
+.btn{
+	-moz-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background-color:#79bbff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #84bbf3;
+	display:inline-block;
+	color:#ffffff;
+	font-family:arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 1px 0px #528ecc;
+}.btn:hover {
+	background-color:#378de5;
+}.btn:active {
+	position:relative;
+	top:1px;
+}
+.pageover_bg {  
+    background-color:#000;  
+    filter:alpha(opacity=75);  
+    -moz-opacity: 0.75;  
+    opacity: 0.75;  
+    }  
+    #Image_load{  
+    position: fixed;  
+    display:none;  
+    height:13px;  
+    width:208px;  
+    z-index:103;  
+    top: 50%;  
+    left: 50%;  
+    margin: -6px 0 0 -104px; /* -height/2 0 0 -width/2 */  
+    }  
+#progress_bar {
+	visibility:hidden;
+	width:800px;
+	}
