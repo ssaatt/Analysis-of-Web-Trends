@@ -14,3 +14,4 @@ Analysis-of-Web-Trends
 
 5. Next you create an EMR. Copy your twit data to a S3 bucket. Run your algorithm there and show the results.
 
+
